@@ -1,0 +1,28 @@
+.login {
+    width: 450px;
+}
+
+.register {
+    width: 600px;
+}
+
+.row {
+    margin-bottom: 15px;
+}
+
+
+main {
+    margin-top: 20px;
+}
+
+.container {
+    margin: 0 auto; 
+    margin-top: 20px;
+    width: 900px;
+    height: 700px;
+}
+
+.btn-primary {
+    margin-top: 5px;
+}
+
